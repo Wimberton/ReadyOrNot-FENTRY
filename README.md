@@ -20,10 +20,9 @@ RONFentry is the most advanced cheat for Ready or Not. It's completely free and 
 
 ## Installation & Usage
 
-1. Bypass EAC (External tools required)
-2. Inject DLL into FlameSteamClient-Win64-Shipping.exe
-3. Press `INSERT` to toggle menu
-4. Configure features and enjoy tactical superiority!
+1. Inject DLL into ReadyOrNotSteam-Win64-Shipping.exe
+2. Press `INSERT` to toggle menu
+3. Configure features and enjoy!
 
 **Note:** This is a completely FREE community project. No premium versions or paid features.
 
