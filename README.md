@@ -1,4 +1,4 @@
-# RONFentry - Ready or Not Internal Multitool
+# RONFentry - Ready or Not Feature-Packed Multitool <a href="https://www.unknowncheats.me/forum/other-fps-games/716446-ronfentry-ready-internal-feature-packed-multitool.html"><img align="right" src="https://i.gyazo.com/7e7b0b3f8bd20565233fe2f3fb08d250.png" width="32" height="32"></a>
 
 RONFentry is the most advanced cheat for Ready or Not. It's completely free and open source, featuring over 60+ powerful tools — from ESP, Aimbot, and Weapon Mods, to Teleports, Player Enhancements, Suspect Control, and World Manipulation. Every system is designed to give you unmatched control, customization, and tactical superiority.
 
